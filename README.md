@@ -1,2 +1,2 @@
-This is master comtent
+This is sibling branch content
 
